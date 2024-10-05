@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "public",
-    "vscode"
+    "vscode",
+    "profile"
   ]
 }
